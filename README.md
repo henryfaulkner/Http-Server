@@ -15,3 +15,12 @@ Linux Http Server implementation from scratch. Written in C++.
 
 - Sys/socket
 - Arpa/inet
+
+# Useful Resources
+
+- https://gist.github.com/juancsr/5927e6660d6ba5d2a34c61802d26e50a
+  - Helped get Docker CLI running on my Mac
+
+# Use Docker environment
+
+- $docker build my-http-server
