@@ -23,4 +23,4 @@ Linux Http Server implementation from scratch. Written in C++.
 
 # Use Docker environment
 
-- $docker build my-http-server
+- $docker build -t my-http-server .
